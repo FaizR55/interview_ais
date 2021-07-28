@@ -7,4 +7,4 @@
 - open in browser
 
 # jawaban 2 PHP
-- can open in php online compiler
+- php file can open in php online compiler
